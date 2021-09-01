@@ -81,7 +81,7 @@ Chạy các lệnh này để sao chép và chạy TBomb.
 `` shell script
 pkg cài đặt git -y 
 pkg cài đặt python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/TruongThach2006/Tbomb-spam.git
 cd TBomb
 ./TBomb.sh
 ``
@@ -95,7 +95,7 @@ apk thêm python3
 apk thêm py3-pip
 apk thêm ruby
 đá quý cài đặt nhà vệ sinh
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/TruongThach2006/Tbomb-spam.git
 cd TBomb
 pip3 install -r request.txt
 chmod + x TBomb.sh
